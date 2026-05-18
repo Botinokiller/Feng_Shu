@@ -1,0 +1,364 @@
+@media (max-width:1200px){
+    .list_1 {
+    gap: 84px;
+    }
+    .inner_footer{
+        gap: 120px;
+    }
+    .link_1{
+        font-size: 30px;
+    }
+    .follow_us h2{
+        font-size: 35px;
+    }
+    .icons img {
+        width: 40px;
+        height: 40px;
+    }
+    .picture_ img{
+        width: 850px;
+        height: 350px;
+    }
+    .aboutus_text p:nth-child(1){
+        font-size: 30px;
+    }
+    .aboutus_text p:nth-child(2){
+        font-size: 30px;
+    }
+    .list {
+        gap: 50px;
+    }
+    .link{
+        font-size: 30px;
+    }
+    .Feng_icon {
+        font-size: 30px;
+    }
+    .header_icon img{
+        width: 35px;
+        height: 30px;
+    }
+    .text_btn p{
+        font-size: 30px;
+    }
+    .bottom_btn{
+        font-size: 30px;
+        width: 300px;
+        height: 100px;
+    }
+    .inner_intro{
+        font-size: 45px;
+    }
+    .Script {
+    margin-left: 40px;
+    }
+    .intro_text{
+        font-size: 35px;
+    }
+    .shop_text{
+        font-size: 30px;
+    }
+    .shop_grid{
+        max-width: 994px;
+        width: 100%;
+        margin: 0 auto;
+        grid-template-columns: 600px;
+        justify-content: center;
+    }
+    .card_holder{
+        grid-template-columns: repeat(2, 450px);
+        margin-bottom: 120px;
+    }
+    .settler_header{
+        font-size: 45px;
+    }
+    .settler_text h2 {
+        font-size: 30px;
+    }
+    .settler_text p {
+        font-size: 25px;
+    }
+    .aboutus_heading{
+        font-size: 45px;
+    }
+    .inner_settler{
+        max-width: 992px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .discount_block_3{
+        bottom: 550.5px;
+    }
+    .script_fuji{
+        bottom: 20px;
+    }
+}
+
+@media (max-width:992px){
+    .nav__inner {
+
+    }
+
+    .link {
+        font-size: 35px;
+    }
+
+    .Feng_icon {
+        font-size: 35px;
+    }
+
+    .nav__inner{
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .text_shop{
+        max-width: 768px;
+        width: 100%;
+    }
+
+    .Script h1{
+        font-size: 50px;
+    }
+
+    .text_shop br{
+        display: none;
+    }
+
+    .card_holder{
+        grid-template-columns: repeat(1, 500px);
+        justify-content: center;
+    }
+    .card__img{
+        width: 500px;
+    }
+    .picture_ img{
+        width: 750px;
+    }
+
+    .link_1 {
+        font-size: 35px;
+    }
+
+    .inner_footer {
+    flex-direction: column;
+    align-items: center;
+    gap: 65px;}
+
+    .follow_us{
+        gap: 25px;
+    }
+
+    .section-line {
+        margin-bottom: 90px;
+    }
+}
+
+@media (max-width:768px){
+    .picture_ img {
+        width: 560px;
+    }
+
+    .list {
+        gap: 40px;
+    }
+
+    .link {
+        font-size: 40px;
+    }
+
+    .Feng_icon {
+        font-size: 40px;
+    }
+
+    .header_icon img {
+        width: 45px;
+        height: 40px;
+    }
+
+    .nav__inner{
+        gap: 25px;
+    }
+
+    .text_btn p {
+        font-size: 25px;
+    }
+
+    .inner_shop{
+        margin-top: 110px;
+    }
+
+    .shop_text {
+        font-size: 25px;
+    }
+
+    .intro_text {
+        font-size: 30px;
+    }
+
+    .sakura_pic img {
+    width: 570px; }
+
+    .tokyo_pic img {
+        width: 570px;
+    }
+    .fuji_pic img {
+        width: 570px;
+    }
+
+    .script_tokyo p{
+        font-size: 20px;
+    }
+
+    .script_fuji p {
+        font-size: 20px;
+    }
+
+    .aboutus_text p:nth-child(1) {
+        font-size: 25px;
+    }
+
+    .aboutus_text p:nth-child(2) {
+        font-size: 20px;
+    }
+
+    .inner_footer{
+        gap: 50px;
+    }
+
+    .section-line {
+        margin-bottom: 69px;
+    }
+
+}
+
+@media (max-width:576px){
+
+    .Feng_icon {
+        font-size: 45px;
+    }
+
+    .list{
+        flex-direction: column;
+    }
+
+    .link {
+        font-size: 45px;
+    }
+
+    .Script h1 {
+        font-size: 40px;
+    }
+
+    .header_icon img {
+        width: 50px;
+        height: 45px;
+    }
+
+    .header_icon {
+    gap: 45px;}
+
+    .inner_intro {
+        font-size: 40px;
+    }
+    
+    .intro_text {
+        font-size: 25px;
+    }
+
+    .shop_text {
+        font-size: 25px;
+    }
+
+    .sakura_pic img {
+        width: 430px;
+    }
+
+    .tokyo_pic img {
+        width: 430px;
+    }
+
+    .script_sakura{
+        left: 125px;
+    }
+
+    .script_tokyo{
+        left: 125px;
+    }
+
+    .fuji_pic img {
+        width: 430px;
+    }
+
+    .script_fuji{
+        left: 125px;
+    }
+
+    .settler_header {
+        font-size: 40px;
+    }
+
+    .settler_text h2 {
+        font-size: 25px;
+    }
+
+    .settler_sub_text{
+        left: 70px;
+    }
+
+    .card__bottom_btn{
+        left: 70px;
+    }
+
+    .card_top_discount{
+        left: 70px;
+    }
+
+    .aboutus_heading {
+        font-size: 40px;
+    }
+
+    .card__img img{
+        width: 440px;
+    }
+
+    .picture_ img {
+        width: 375px;
+    }
+
+    .list_1{
+        flex-direction: column;
+    }
+
+    .list_1 {
+        gap: 50px;
+    }
+
+    .sakura_pic{
+        width: 430px;
+    }
+
+    .tokyo_pic{
+        width: 430px;
+    }
+
+    .fuji_pic{
+        width: 430px;
+    }
+
+    .card__img {
+        width: 440px;
+    }
+
+    .card {
+        width: 375px;
+    }
+
+}
+
+@media (max-width:390px){
+    
+}
+
